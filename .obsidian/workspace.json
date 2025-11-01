@@ -25,13 +25,14 @@
             "id": "d6d8641d3f4f87d8",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Index-base.base",
-                "viewName": "Table"
+                "file": "anything showing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Index-base"
+              "icon": "lucide-file",
+              "title": "anything showing"
             }
           }
         ],
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index-base.base",
+                "file": "anything showing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index-base"
+              "title": "Backlinks for anything showing"
             }
           },
           {
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index-base.base",
+                "file": "anything showing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Index-base"
+              "title": "Outgoing links from anything showing"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index-base.base",
+                "file": "anything showing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Index-base"
+              "title": "Outline of anything showing"
             }
           },
           {
@@ -196,8 +197,9 @@
   },
   "active": "d6d8641d3f4f87d8",
   "lastOpenFiles": [
-    "test.md",
     "Index-base.base",
+    "anything showing.md",
+    "test.md",
     "README.md",
     "new.md"
   ]
